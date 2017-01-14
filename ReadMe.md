@@ -1,4 +1,4 @@
-<a href="http://www.spoj.com/"><img src="http://stx1.spoj.com/gfx/2015e.png" align="left" height="40" width="300" ></a>
+<a href="http://www.spoj.com/"><img src="http://stx1.spoj.com/gfx/2015e.png" align="left" height="50" width="400" ></a>
 
 The following programs are my submissions for competitive programming problems at http://www.spoj.com. 
 
